@@ -1,0 +1,43 @@
+.bkgd-clr-trn {
+  background-color: transparent;
+}
+
+.bkgd-img-n\/a {
+  background-image: none;
+}
+
+.bkgd-posn-lt {
+  background-position: left top;
+}
+
+.bkgd-posn-left-cent {
+  background-position: left center;
+}
+
+.bkgd-posn-left-btm {
+  background-position: left bottom;
+}
+
+.bkgd-posn-ri8-top {
+  background-position: right top;
+}
+
+.bkgd-posn-ri8-cent {
+  background-position: right center;
+}
+
+.bkgd-posn-ri8-btm {
+  background-position: right bottom;
+}
+
+.bkgd-posn-cent-top {
+  background-position: center top;
+}
+
+.bkgd-posn-cent-cent {
+  background-position: center center;
+}
+
+.bkgd-posn-cent-btm {
+  background-position: center bottom;
+}
